@@ -1,5 +1,0 @@
-(
-source /usr/share/doc/git-2.18.0/contrib/completion/git-prompt.sh
-export PS1='\n\[\033[0m\033[0;36m\]\u\[\033[0;36m\]@\[\033[0;36m\]\h \[\033[0m\033[0;94m\]\w\[\033[0;35m\]$(__git_ps1)\[\033[0m\033[0;32m\] \n\$\[\033[0m\033[0;36m\]\[\033[0m\] '
-)
-
